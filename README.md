@@ -28,6 +28,7 @@
 ## 1. 应用简介
 
 **StudyCesium** 是一个基于 Electron 和 Cesium 的现代化 3D GIS 桌面应用程序，专为 Cesium 开发者和学习者设计。它集成了代码编辑、实时预览、调试工具和教程系统，让您能够高效地学习和开发 Cesium 3D 地球应用。
+![3D Tiles 调试器界面示例](./截图/3d-tiles.png)
 
 ### 主要特性
 
